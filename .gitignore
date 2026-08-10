@@ -1,0 +1,11 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+test.exe
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
