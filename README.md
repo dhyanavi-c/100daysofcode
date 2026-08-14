@@ -4,8 +4,8 @@
 > Syllabus Reference: [Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/)
 
 ### Progress Overview
-- **Days Completed**: 4 / 100
-- **Problems Solved**: 8 / 150
+- **Days Completed**: 5 / 100
+- **Problems Solved**: 10 / 150
 
 ### Daily Log
 | Day | Date | Topic | Problems Solved | Status |
@@ -14,3 +14,4 @@
 | Day 2 | 2026-08-11 | User Inputs, Operations & Output | Q3, Q4 | Done |
 | Day 3 | 2026-08-12 | User Inputs, Operations & Output | Q5, Q6 | Done |
 | Day 4 | 2026-08-13 | User Inputs, Operations & Output | Q7, Q8 | Done |
+| Day 5 | 2026-08-14 | User Inputs, Operations & Output | Q9, Q10 | Done |
