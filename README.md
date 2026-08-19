@@ -4,8 +4,8 @@
 > Syllabus Reference: [Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/)
 
 ### Progress Overview
-- **Days Completed**: 9 / 100
-- **Problems Solved**: 18 / 150
+- **Days Completed**: 10 / 100
+- **Problems Solved**: 20 / 150
 
 ### Daily Log
 | Day | Date | Topic | Problems Solved | Status |
@@ -19,3 +19,4 @@
 | Day 7 | 2026-08-16 | Conditional Statements | Q13, Q14 | Done |
 | Day 8 | 2026-08-17 | Conditional Statements | Q15, Q16 | Done |
 | Day 9 | 2026-08-18 | Conditional Statements | Q17, Q18 | Done |
+| Day 10 | 2026-08-19 | Conditional Statements | Q19, Q20 | Done |
