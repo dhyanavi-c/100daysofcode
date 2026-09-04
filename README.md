@@ -4,8 +4,8 @@
 > Syllabus Reference: [Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/)
 
 ### Progress Overview
-- **Days Completed**: 25 / 100
-- **Problems Solved**: 50 / 150
+- **Days Completed**: 26 / 100
+- **Problems Solved**: 52 / 150
 
 ### Daily Log
 | Day | Date | Topic | Problems Solved | Status |
@@ -35,3 +35,4 @@
 | Day 23 | 2026-09-01 | Loops without Arrays/Strings | Q45, Q46 | Done |
 | Day 24 | 2026-09-02 | Nested Loops without Arrays/Strings | Q47, Q48 | Done |
 | Day 25 | 2026-09-03 | Nested Loops without Arrays/Strings | Q49, Q50 | Done |
+| Day 26 | 2026-09-04 | Nested Loops without Arrays/Strings | Q51, Q52 | Done |
