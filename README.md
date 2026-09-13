@@ -4,8 +4,8 @@
 > Syllabus Reference: [Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/)
 
 ### Progress Overview
-- **Days Completed**: 34 / 100
-- **Problems Solved**: 68 / 150
+- **Days Completed**: 35 / 100
+- **Problems Solved**: 70 / 150
 
 ### Daily Log
 | Day | Date | Topic | Problems Solved | Status |
@@ -44,3 +44,4 @@
 | Day 32 | 2026-09-10 | Arrays (1D) | Q63, Q64 | Done |
 | Day 33 | 2026-09-11 | Arrays (1D) | Q65, Q66 | Done |
 | Day 34 | 2026-09-12 | Arrays (1D) | Q67, Q68 | Done |
+| Day 35 | 2026-09-13 | Arrays (1D) | Q69, Q70 | Done |
